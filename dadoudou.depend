@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1593156717 source:e:\dadoudou\dadoudou.c
+	"dadoudou.h"
+	<stdlib.h>
+	<stdio.h>
+
+1593156814 e:\dadoudou\dadoudou.h
+
+1593164003 source:e:\dadoudou\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593157148 source:e:\dadoudou\eat.c
+	"eat.h"
+	<stdio.h>
+	<stdlib.h>
+
+1593157083 e:\dadoudou\eat.h
+
+1593161956 source:e:\dadoudou\cry.c
+	"cry.h"
+	<stdlib.h>
+	<stdio.h>
+
+1593162403 e:\dadoudou\cry.h
+
+1593157565 source:e:\dadoudou\display.c
+	"display.h"
+	<stdlib.h>
+	<stdio.h>
+
+1593157565 e:\dadoudou\display.h
+
+1593163133 source:e:\dadoudou\shui.c
+	"shui.h"
+	<stdio.h>
+	<stdlib.h>
+
+1593161465 e:\dadoudou\shui.h
+
